@@ -1,12 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Arthur, junior developper
 
-## Dev skills
+🌍  I'm based in Angers, France and Le Mans, France
+✉️  You can contact me at arthur.broudoux@gmail.com
+
+# Dev skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,vscode,wordpress)](https://skillicons.dev)
 
-## Other
+# Social
+
+[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,twitter)](https://skillicons.dev)
+
+# Other
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ableton,ai,ps)](https://skillicons.dev)
+
 
 <!--
 **abroudoux/abroudoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
