@@ -3,6 +3,8 @@
 📍I'm based in Angers and Le Mans, France
 <br>
 ✉️  You can contact me at arthur.broudoux@gmail.com
+<br>
+🖥️  Portfolio in construction
 
 # Dev skills
 
