@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Arthur, junior developper
 
-🌍  I'm based in Angers and Le Mans, France
+📍I'm based in Angers and Le Mans, France
 <br>
 ✉️  You can contact me at arthur.broudoux@gmail.com
 
