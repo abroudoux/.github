@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## DEV
+## Dev skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,vscode,wordpress)](https://skillicons.dev)
 
