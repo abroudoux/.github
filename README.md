@@ -6,7 +6,7 @@
 
 # Dev skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,vscode&perline=4)](https://skillicons.dev)
 
 # Social
 
