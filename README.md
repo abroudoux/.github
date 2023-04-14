@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,vue)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=,html,css,js,vue,sass)](https://skillicons.dev)
 
 <!--
 **abroudoux/abroudoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
