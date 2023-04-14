@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+## DEV
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,vscode)](https://skillicons.dev)
+
+## Other
+
 [![My Skills](https://skillicons.dev/icons?i=figma,ableton,ai,ps,vscode,wordpress)](https://skillicons.dev)
 
 <!--
