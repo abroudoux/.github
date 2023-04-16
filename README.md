@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm Arthur, junior developper
 
 <ul>
-    <li>
-        📍I'm based in Angers and Le Mans, France
-    </li>
-    <li>
-        ✉️  You can contact me at arthur.broudoux@gmail.com
-    </li>
-    <li>
-        🖥️  Portfolio in construction ...
-    </li>
+<li>
+📍I'm based in Angers and Le Mans, France
+</li>
+<li>
+✉️  You can contact me at arthur.broudoux@gmail.com
+</li>
+<li>
+🖥️  Portfolio in construction ...
+</li>
 </ul>
 
 ### Dev skills
