@@ -2,7 +2,7 @@
 
 • 📍 Angers and Le Mans, France
 <br>
-• ✉️  Contact me at arthur.broudoux@gmail.com
+• ✉️  Contact : arthur.broudoux@gmail.com
 <br>
 • 🖥️  Portfolio in construction ...
 
