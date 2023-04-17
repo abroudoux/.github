@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arthur, junior developper
+## Hi there 👋 I'm Arthur, junior developer
 
 • 📍 Angers and Le Mans, France
 <br>
