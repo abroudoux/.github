@@ -16,7 +16,7 @@
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,id)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr)](https://skillicons.dev)
 
 
 <!--
