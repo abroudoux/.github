@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Arthur, junior developer
 
-• 📍 Angers and Le Mans, France
+📍 I'm based in Angers and Le Mans, France
 <br>
-• ✉️  Contact : arthur.broudoux@gmail.com
+✉️  You can contact me at arthur.broudoux@gmail.com
 <br>
-• 🖥️  Portfolio in construction ...
+🖥️  Discover my portfolio : https://abroudoux.github.io/
 
-### Dev skills
+### Dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,typescript,react,tailwind&perline=5)](https://skillicons.dev)
 
-### Social
+### Work Environnement
 
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,github,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&perline=4)](https://skillicons.dev)
 
 ### Other
 
