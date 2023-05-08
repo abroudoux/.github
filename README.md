@@ -8,15 +8,15 @@
 
 ### Dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,typescript,react,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,typescript,vite,react,tailwind&perline=6)](https://skillicons.dev)
 
 ### Work Environnement
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,webflow&perline=5)](https://skillicons.dev)
 
 ### Other
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,id&perline=4)](https://skillicons.dev)
 
 
 <!--
