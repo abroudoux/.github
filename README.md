@@ -4,7 +4,7 @@
 <br>
 ✉️  You can contact me at arthur.broudoux@gmail.com
 <br>
-🖥️  Discover my portfolio : https://abroudoux.github.io/
+🖥️  Portfolio in construction
 
 ### Dev
 
