@@ -5,6 +5,8 @@
 ✉️  You can contact me at arthur.broudoux@gmail.com
 <br>
 🖥️ Discover my portfolio : https://abroudoux.github.io/portfolio
+<br>
+📝 I a am currently working on : Automatic Spotify play from a Notion list (https://github.com/abroudoux/spotify-automatic-play)
 
 ### Dev
 
