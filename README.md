@@ -6,7 +6,7 @@
 <br>
 🖥️ Discover my portfolio : https://abroudoux.github.io/portfolio
 <br>
-📝 I a am currently working on : Automatic Spotify play from a Notion list (https://github.com/abroudoux/spotify-automatic-play)
+📝 I'm currently working on : Automatic Spotify play from a Notion list (https://github.com/abroudoux/spotify-automatic-play)
 
 ### Dev
 
