@@ -12,4 +12,4 @@
 
 ### Work Environnement
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,githubline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,&perline=5)](https://skillicons.dev)
