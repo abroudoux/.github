@@ -5,17 +5,11 @@
 ✉️  You can contact me at arthur.broudoux@gmail.com
 <br>
 🖥️ Discover my portfolio : https://abroudoux.github.io/portfolio
-<br>
-📝 I'm currently working on : Automatic Spotify play from a Notion list
 
 ### Dev
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sass,vue,mysql,typescript,react,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,sass,vue,typescript,react,tailwind,nuxtjs,bash,node,&perline=5)](https://skillicons.dev)
 
 ### Work Environnement
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,viteline=5)](https://skillicons.dev)
-
-### Other
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,id&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,githubline=5)](https://skillicons.dev)
