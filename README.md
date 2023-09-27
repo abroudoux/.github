@@ -8,7 +8,7 @@
 
 ### Dev
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,sass,vue,typescript,react,tailwind,nuxtjs,bash,node,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,sass,vue,typescript,react,tailwind,nuxtjs,bash,nodejs,&perline=5)](https://skillicons.dev)
 
 ### Work Environnement
 
