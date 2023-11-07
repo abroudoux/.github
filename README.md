@@ -9,4 +9,4 @@
 🖥️ Discover my portfolio : https://abroudoux.github.io/portfolio
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,sass,typescript,react,tailwind,postgres,postman,nestjs,git,bash,nodejs,mongodb,graphql,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,sass,typescript,react,tailwind,nestjs,git,bash,nodejs,mongodb&perline=5)](https://skillicons.dev)
