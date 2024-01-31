@@ -15,7 +15,7 @@
 ## Last played album
 
 <div>
-    <p style="margin-bottom: 0; padding-bottom:0; font-size: 36px; font-weight: 700;">cero - e o<p>
+    <p>cero - e o<p>
     <br>
     <img src=https://i.scdn.co/image/ab67616d0000b27361179675298a14b172b24653 style="max-width: 120px; height: auto">
 </div>
