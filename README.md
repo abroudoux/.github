@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,scss,react,tailwind,nestjs,git,bash,nodejs,mongodb,rust,python,postman,docker,postgres,vercel&perline=8)](https://skillicons.dev)
 
-## Last played album
+## Last album played
 
 <div>
     <p>Bleu Nuit - 222</p>
