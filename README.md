@@ -15,7 +15,7 @@
 ## Last played album
 
 <div>
-    <p>cero - e o</p>
+    <p>Parannoul - To See the Next Part of the Dream</p>
     <br>
-    <img src=https://i.scdn.co/image/ab67616d0000b27361179675298a14b172b24653 style="max-width: 120px; height: auto"/>
+    <img style="max-width: 400px; border-radius: 6px" src="https://i.scdn.co/image/ab67616d0000b2732c373d645f0cb73dedde2683"/>
 </div>
