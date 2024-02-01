@@ -15,7 +15,7 @@
 ## Last played album
 
 <div>
-    <p>Parannoul - To See the Next Part of the Dream</p>
+    <p>Bleu Nuit - 222</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2732c373d645f0cb73dedde2683"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2733517a795fbbc50cb9cd8797a"/>
 </div>
