@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Ouréa - ilmäre</p>
+    <p>L'AFRO OU LES TRESSES - Yvnnis</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2737528429d438137d13cc87811"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27334d5f11a745466488fdb08ce"/>
 </div>
