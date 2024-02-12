@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>L'AFRO OU LES TRESSES - Yvnnis</p>
+    <p>Le Grand Mystico - Slimka</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27334d5f11a745466488fdb08ce"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273ea09307866a318ca1161a2b6"/>
 </div>
