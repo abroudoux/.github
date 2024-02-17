@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Le Grand Mystico - Slimka</p>
+    <p>NOUVELLE ⸎ ECONOMIE - Ptite Soeur</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273ea09307866a318ca1161a2b6"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2733f50886351d7c3feddedace1"/>
 </div>
