@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>EXIT - Luther</p>
+    <p>mixed matches (extended) - Mixed Matches</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27347a6c4dbab70ccf5a54e835d"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273c05594c4a347f9431cf41aac"/>
 </div>
