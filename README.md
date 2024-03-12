@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Arthur, web developer
 
-📍 I'm based in Angers and Le Mans, France
+📍 I'm based in Angers
 
-🚀 I'm currently working on [Spotify-autopsuh](https://github.com/abroudoux/spotify-autopush.git)
+🚀 I'm currently working on [Spotify-autopush](https://github.com/abroudoux/spotify-autopush.git)
 
 📚 I'm currently learning Rust, Docker & Python
 
