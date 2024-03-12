@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>EXIT - Luther</p>
+    <p>Blonde - Frank Ocean</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27347a6c4dbab70ccf5a54e835d"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526"/>
 </div>
