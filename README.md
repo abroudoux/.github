@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Blonde - Frank Ocean</p>
+    <p>La Bête - Vilhelm.</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273f8ac65affe67d5cdf67097b2"/>
 </div>
