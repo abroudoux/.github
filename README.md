@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Gris (Original Game Soundtrack) - Berlinist</p>
+    <p>La Bête by Vilhelm. & FEMTOGO</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2735ec3e025859f491405f40864"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273f8ac65affe67d5cdf67097b2"/>
 </div>
