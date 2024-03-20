@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>La Bête by Vilhelm. & FEMTOGO</p>
+    <p>j'ai la main trop froide pour réchauffer la tienne by kahnji</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273f8ac65affe67d5cdf67097b2"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2739b7c2266b4ead88a67e6ea14"/>
 </div>
