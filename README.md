@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>j'ai la main trop froide pour réchauffer la tienne by kahnji</p>
+    <p>La vie est bien faite by Sameer Ahmad</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2739b7c2266b4ead88a67e6ea14"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27385c4134cfd03cb7c39cc1efe"/>
 </div>
