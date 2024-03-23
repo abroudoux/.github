@@ -2,9 +2,9 @@
 
 📍 I'm based in Angers
 
-🚀 I'm currently working on [Spotify-autopush](https://github.com/abroudoux/spotify-autopush.git)
+🚀 I'm currently working on [highlights.io](https://github.com/abroudoux/highlights.io.git)
 
-📚 I'm currently learning Rust, Docker & Python
+📚 I'm currently learning Rust, AdonisJs & Python
 
 🌍 Discover my [Portfolio](https://abroudoux-portfolio.vercel.app/)
 
