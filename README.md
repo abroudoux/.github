@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>La vie est bien faite by Sameer Ahmad</p>
+    <p>VIOLET EVERGARDEN: Automemories by Evan Call</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27385c4134cfd03cb7c39cc1efe"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2731cd127473c1065dceecb92d1"/>
 </div>
