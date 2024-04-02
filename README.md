@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>VIOLET EVERGARDEN: Automemories by Evan Call</p>
+    <p>Цикли (Cycles) by chainsawplease & sofia persan</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2731cd127473c1065dceecb92d1"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273020a2a6ef448a699abf5efb1"/>
 </div>
