@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Цикли (Cycles) by chainsawplease & sofia persan</p>
+    <p>비타민과 우려 Vitamins and Apprehension by Della Zyr</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273020a2a6ef448a699abf5efb1"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27300c94e101484ba2f0d05f47e"/>
 </div>
