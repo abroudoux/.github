@@ -10,7 +10,7 @@
 
 ## Technos & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,scss,react,tailwind,nestjs,git,bash,nodejs,mongodb,rust,python,postman,docker,postgres,laravel&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,scss,react,tailwind,nestjs,git,adonis,nodejs,mongodb,rust,python,postman,docker,postgres,laravel&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
