@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>비타민과 우려 Vitamins and Apprehension by Della Zyr</p>
+    <p>Symphonie Des Marécages by SONBEST</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27300c94e101484ba2f0d05f47e"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2736e93eeaaf3c0ad2c2f74222f"/>
 </div>
