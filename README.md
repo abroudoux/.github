@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Symphonie Des Marécages by SONBEST</p>
+    <p>I Didn't Mean To Haunt You by Quadeca</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b2736e93eeaaf3c0ad2c2f74222f"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c"/>
 </div>
