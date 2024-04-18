@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>I Didn't Mean To Haunt You by Quadeca</p>
+    <p>Victory Music by RealYungPhil</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27328d45de856229ef6e1d4ba12"/>
 </div>
