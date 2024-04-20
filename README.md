@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Arthur, web developer
 
-📍 I'm based in Angers
+📍 I'm based in Rennes
 
 🚀 I'm currently working on [highlights.io](https://github.com/abroudoux/highlights.io.git)
 
-📚 I'm currently learning Rust, AdonisJs & Python
+📚 I'm currently learning Rust, Adonis & Docker
 
-🌍 Discover my [Portfolio](https://abroudoux-portfolio.vercel.app/)
+🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
 ## Technos & Tools
 
