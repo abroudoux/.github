@@ -15,7 +15,7 @@
 ## Last album played
 
 <div>
-    <p>Victory Music by RealYungPhil</p>
+    <p>Heartbeats/Heartbreaks by caro♡</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27328d45de856229ef6e1d4ba12"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273f54be17ef7da1e7d6ecec763"/>
 </div>
