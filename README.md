@@ -1,16 +1,18 @@
 # Hi there 👋 I'm Arthur, web developer
 
-📍 I'm based in Rennes
+📍 I'm based in Angers
 
 🚀 I'm currently working on [highlights.io](https://github.com/abroudoux/highlights.io.git)
 
-📚 I'm currently learning Rust, Adonis & Docker
-
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
-## Technos & Tools
+## My current stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,scss,react,tailwind,nestjs,git,adonis,nodejs,mongodb,rust,python,postman,docker,postgres,laravel&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,nodejs,adonis,postgres&perline=8)](https://skillicons.dev)
+
+## I'm currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=go,rust,java,angular,docker,s&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
