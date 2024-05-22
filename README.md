@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>Heartbeats/Heartbreaks by caro♡</p>
+    <p>MM...FOOD by MF DOOM</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273f54be17ef7da1e7d6ecec763"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799"/>
 </div>
