@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>MM...FOOD by MF DOOM</p>
+    <p>lo(s/n/v)er by Young Jeunesse</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273a4621115fa2dbe3b4c96f11c"/>
 </div>
