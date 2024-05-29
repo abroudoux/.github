@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>lo(s/n/v)er by Young Jeunesse</p>
+    <p>After the Magic by Parannoul</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273a4621115fa2dbe3b4c96f11c"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273cae389ab4c2347ccc03d6e08"/>
 </div>
