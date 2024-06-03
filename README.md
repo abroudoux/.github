@@ -2,7 +2,7 @@
 
 📍 I'm based in Angers
 
-🚀 I'm currently working on [highlights.io](https://github.com/abroudoux/highlights.io.git)
+🚀 I'm currently working on [pokemon-battle-simulator](https://github.com/abroudoux/pokemon-battle-simulator.git)
 
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
