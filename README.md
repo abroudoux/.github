@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>After the Magic by Parannoul</p>
+    <p>Crystal Castles by Crystal Castles</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273cae389ab4c2347ccc03d6e08"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273db4e506605774d3d90ebb7bb"/>
 </div>
