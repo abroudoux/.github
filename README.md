@@ -2,17 +2,17 @@
 
 📍 I'm based in Angers
 
-🚀 I'm currently working on [pokemon-battle-simulator](https://github.com/abroudoux/pokemon-battle-simulator.git)
+🚀 I'm currently working on [chess](https://github.com/abroudoux/chess.git)
 
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
-## My current stack
+## Technical stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,nodejs,adonis,postgres&perline=8)](https://skillicons.dev)
 
 ## I'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,java,angular,docker,s&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,docker,svelte,s&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
