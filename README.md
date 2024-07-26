@@ -12,7 +12,7 @@
 
 ## I'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,docker,svelte,s&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,docker,svelte,threejs,s&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
