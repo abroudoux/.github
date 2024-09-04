@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>Crystal Castles by Crystal Castles</p>
+    <p>Short n' Sweet by Sabrina Carpenter</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273db4e506605774d3d90ebb7bb"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626"/>
 </div>
