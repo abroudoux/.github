@@ -17,7 +17,7 @@
 ## Last album played
 
 <div>
-    <p>Short n' Sweet by Sabrina Carpenter</p>
+    <p>Subaru Boys : FINAL HEAVEN by Cruel Santino</p>
     <br>
-    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626"/>
+    <img style="width: 250px;" src="https://i.scdn.co/image/ab67616d0000b273cb1c6242218b250959aa475e"/>
 </div>
