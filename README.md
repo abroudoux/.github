@@ -2,7 +2,7 @@
 
 📍 I'm based in Rennes
 
-🚀 I'm currently working on [betetr](https://github.com/abroudoux/better.git)
+🚀 I'm currently working on [better](https://github.com/abroudoux/better.git)
 
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
