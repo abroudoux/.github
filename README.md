@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Arthur, web developer
 
-📍 I'm based in Angers
+📍 I'm based in Rennes
 
-🚀 I'm currently working on [chess](https://github.com/abroudoux/chess.git)
+🚀 I'm currently working on [betetr](https://github.com/abroudoux/better.git)
 
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
