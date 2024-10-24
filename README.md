@@ -8,11 +8,11 @@
 
 ## Technical stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,tailwind,nodejs,adonis,postgres&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,typescript,tailwind,adonis,go,postgres,docker&perline=8)](https://skillicons.dev)
 
 ## I'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,docker,svelte,threejs,s&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,threejs,kafka,kubernetes,githubactions,graphql,s&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
