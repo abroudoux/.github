@@ -8,7 +8,7 @@
 
 ## Technical stack
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,typescript,tailwind,adonis,go,postgres,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,typescript,tailwind,go,postgres,docker&perline=8)](https://skillicons.dev)
 
 ## I'm currently learning
 
