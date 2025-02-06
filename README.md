@@ -2,7 +2,7 @@
 
 📍 I'm based in Rennes
 
-🚀 I'm currently working on [better](https://github.com/abroudoux/better.git)
+🚀 I'm currently working on [dk](https://github.com/abroudoux/dk.git)
 
 🌍 Discover my [portfolio](https://abroudoux-portfolio.vercel.app/)
 
@@ -12,7 +12,7 @@
 
 ## I'm currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,threejs,kafka,kubernetes,githubactions,s&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,kubernetes,githubactions,s&perline=8)](https://skillicons.dev)
 
 ## Last album played
 
